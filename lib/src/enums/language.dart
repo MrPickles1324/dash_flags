@@ -348,6 +348,9 @@ enum Language {
   /// Kinyarwanda
   rw,
 
+  /// Sakha/Yakut
+  sah,
+
   /// Sindhi
   sd,
 
